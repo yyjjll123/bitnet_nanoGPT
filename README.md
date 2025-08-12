@@ -242,4 +242,5 @@ Bitnet：https://github.com/kyegomez/BitNet/tree/main
 ## 注意事项：
 
 1.本代码基于nanoGPT修改而来，且将Bitnet功能集成进bitnet.py文件里面
+
 2.本项目仍在持续优中
