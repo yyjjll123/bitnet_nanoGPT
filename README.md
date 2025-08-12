@@ -225,3 +225,19 @@ For more questions/discussions feel free to stop by **#nanoGPT** on Discord:
 ## acknowledgements
 
 All nanoGPT experiments are powered by GPUs on [Lambda labs](https://lambdalabs.com), my favorite Cloud GPU provider. Thank you Lambda labs for sponsoring nanoGPT!
+
+
+# bitnet_nanoGPT 
+
+该部分基于nanoGPT及Bitnet技术，具体代码参考：
+nanoGPT：https://github.com/karpathy/nanoGPT/tree/master
+Bitnet：https://github.com/kyegomez/BitNet/tree/main
+
+## 使用方法：
+
+参考上述nanoGPT安装及运行方法即可
+
+## 注意事项：
+
+1.本代码基于nanoGPT修改而来，且将Bitnet功能集成进bitnet.py文件里面
+2.本项目仍在持续优中
