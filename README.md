@@ -1,5 +1,5 @@
 
-# nanoGPT
+# 1. nanoGPT
 
 ![nanoGPT](assets/nanogpt.jpg)
 
@@ -227,10 +227,12 @@ For more questions/discussions feel free to stop by **#nanoGPT** on Discord:
 All nanoGPT experiments are powered by GPUs on [Lambda labs](https://lambdalabs.com), my favorite Cloud GPU provider. Thank you Lambda labs for sponsoring nanoGPT!
 
 
-# bitnet_nanoGPT 
+# 2. bitnet_nanoGPT 
 
 该部分基于nanoGPT及Bitnet技术，具体代码参考：
+
 nanoGPT：https://github.com/karpathy/nanoGPT/tree/master
+
 Bitnet：https://github.com/kyegomez/BitNet/tree/main
 
 ## 使用方法：
